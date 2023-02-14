@@ -1,2 +1,2 @@
 # JSPetrichenko
-Practical tasks for the Petrichenko JavaScript course
+Basic level practice for the Petrichenko JavaScript course
